@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  #editor{
+    background-color: lightgreen;
+    width: 500px;
+    height: 200px;
+    margin: auto;
+  }
+  #preview{
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+  }
+}
